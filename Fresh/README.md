@@ -1,0 +1,1 @@
+用了vue+django rest frame 写的生鲜项目
